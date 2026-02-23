@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{919142e2-cfaa-4b46-a512-99294196e680}">
+		<property name="name">
+			<value>IsMoving</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7e81bf10-e2fb-4d1c-a0c6-ea5542d9317f}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{74e1e61a-6300-412f-a963-5ad31f2485ee}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{74e1e61a-6300-412f-a963-5ad31f2485ee}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>11</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
