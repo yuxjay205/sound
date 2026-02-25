@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{6b5e088b-6688-469b-8996-3762490cca2f}">
+		<property name="assetPath">
+			<value>UI/sfx_PauseMenuExit.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.65015873015873016</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3990afe1-3ead-48d5-9ec1-5da3d846a8d3}</destination>
+		</relationship>
+	</object>
+</objects>

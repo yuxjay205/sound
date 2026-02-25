@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EventFolder" id="{1e6ef841-07fa-4268-a34f-d0d5d44dc6f6}">
+		<property name="name">
+			<value>RobotDefaultWalk</value>
+		</property>
+		<relationship name="folder">
+			<destination>{5bc72d49-369b-48e7-88ce-652758ba2b3c}</destination>
+		</relationship>
+	</object>
+</objects>

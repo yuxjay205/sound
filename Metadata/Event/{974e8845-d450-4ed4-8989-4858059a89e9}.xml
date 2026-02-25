@@ -2,13 +2,13 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{974e8845-d450-4ed4-8989-4858059a89e9}">
 		<property name="name">
-			<value>Sfx_RobotMovement</value>
+			<value>Sfx_RobotDefaultMovement</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
 		</property>
 		<relationship name="folder">
-			<destination>{5bc72d49-369b-48e7-88ce-652758ba2b3c}</destination>
+			<destination>{1e6ef841-07fa-4268-a34f-d0d5d44dc6f6}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{7d834188-1007-4418-bf45-9f7d64d64cc0}</destination>
@@ -32,6 +32,9 @@
 		<relationship name="timeline">
 			<destination>{4b72e904-7356-4952-8002-f1936280030e}</destination>
 		</relationship>
+		<relationship name="banks">
+			<destination>{0625ef31-e9d9-4962-b25d-25c245b7d038}</destination>
+		</relationship>
 	</object>
 	<object class="EventMixer" id="{7d834188-1007-4418-bf45-9f7d64d64cc0}">
 		<relationship name="masterBus">
@@ -51,7 +54,7 @@
 			<destination>{b847d302-983a-403e-bd23-354954ba8581}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{9445cbea-d400-46bd-bc3f-3e788cd08b32}</destination>
+			<destination>{e444ef2b-565c-406f-aa50-f9929f92322a}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{b097d30b-58d6-4df5-852f-0c9be81658f3}" />
