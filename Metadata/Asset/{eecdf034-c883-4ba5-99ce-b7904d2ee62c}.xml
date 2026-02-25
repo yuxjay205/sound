@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{eecdf034-c883-4ba5-99ce-b7904d2ee62c}">
+		<property name="assetPath">
+			<value>ChargingPort/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3990afe1-3ead-48d5-9ec1-5da3d846a8d3}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{e4848f76-fd00-4b2d-9a37-35d8f48bf44c}">
 		<property name="assetPath">
-			<value>sfx_ExitPauseMenu.wav</value>
+			<value>UI/sfx_ExitPauseMenu.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

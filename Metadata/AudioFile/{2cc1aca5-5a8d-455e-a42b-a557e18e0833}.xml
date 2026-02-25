@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{2cc1aca5-5a8d-455e-a42b-a557e18e0833}">
 		<property name="assetPath">
-			<value>VO_openingCutsceneFull.wav</value>
+			<value>VO/VO_openingCutsceneFull.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

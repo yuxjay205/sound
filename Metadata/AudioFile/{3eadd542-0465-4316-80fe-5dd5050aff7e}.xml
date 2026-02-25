@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{3eadd542-0465-4316-80fe-5dd5050aff7e}">
 		<property name="assetPath">
-			<value>Sfx_End.wav</value>
+			<value>RobotWalkDefault/Sfx_End.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

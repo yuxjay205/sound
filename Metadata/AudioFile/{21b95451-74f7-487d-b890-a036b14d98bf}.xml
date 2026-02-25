@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{21b95451-74f7-487d-b890-a036b14d98bf}">
 		<property name="assetPath">
-			<value>AI Meter 80%.wav</value>
+			<value>Old AI Meter/AI Meter 80%.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

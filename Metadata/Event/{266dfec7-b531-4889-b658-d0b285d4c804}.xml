@@ -5,7 +5,7 @@
 			<value>Sfx_camera_activate</value>
 		</property>
 		<property name="outputFormat">
-			<value>1</value>
+			<value>0</value>
 		</property>
 		<relationship name="folder">
 			<destination>{5bc72d49-369b-48e7-88ce-652758ba2b3c}</destination>
@@ -82,11 +82,7 @@
 			<destination>{edeb21d1-a6cb-4b37-90fa-1c843b7536ce}</destination>
 		</relationship>
 	</object>
-	<object class="MultiSound" id="{c957181a-678b-4f6a-91b5-21320be11a58}">
-		<relationship name="sounds">
-			<destination>{b0bbbe5a-cfdb-45b7-8b31-b04380882a1e}</destination>
-		</relationship>
-	</object>
+	<object class="MultiSound" id="{c957181a-678b-4f6a-91b5-21320be11a58}" />
 	<object class="MixerBusEffectChain" id="{8c9b164f-7a52-4e69-94b8-2e9007ad7d83}">
 		<relationship name="effects">
 			<destination>{5b14db24-9337-43fa-b5d6-aa4d69431b68}</destination>
@@ -99,11 +95,6 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{f43f7e43-f7df-43aa-a361-752aaf3f98d8}" />
-	<object class="SingleSound" id="{b0bbbe5a-cfdb-45b7-8b31-b04380882a1e}">
-		<relationship name="audioFile">
-			<destination>{2a11aec9-4331-4cfa-a8db-84f7cfe26e78}</destination>
-		</relationship>
-	</object>
 	<object class="MixerBusFader" id="{5b14db24-9337-43fa-b5d6-aa4d69431b68}" />
 	<object class="MixerBusFader" id="{24183774-d6a4-4e3c-8752-7e76df4d1dcd}" />
 </objects>

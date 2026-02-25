@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{c248e888-d9ca-4c6b-b307-35fa1c4d0836}">
+		<property name="assetPath">
+			<value>Old AI Meter/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3990afe1-3ead-48d5-9ec1-5da3d846a8d3}</destination>
+		</relationship>
+	</object>
+</objects>

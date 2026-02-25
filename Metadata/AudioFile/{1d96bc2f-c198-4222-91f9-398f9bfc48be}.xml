@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{1d96bc2f-c198-4222-91f9-398f9bfc48be}">
 		<property name="assetPath">
-			<value>sfx_ChargingComplete.wav</value>
+			<value>ChargingPort/sfx_ChargingComplete.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

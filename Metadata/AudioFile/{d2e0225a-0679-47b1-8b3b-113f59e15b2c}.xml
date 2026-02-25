@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{d2e0225a-0679-47b1-8b3b-113f59e15b2c}">
+		<property name="assetPath">
+			<value>sfx_lightsFlickerShort.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.5</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3990afe1-3ead-48d5-9ec1-5da3d846a8d3}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{be5d9c34-f1ba-4905-8aeb-0385698b624b}">
 		<property name="assetPath">
-			<value>sfx_cameraPanning.wav</value>
+			<value>SecurityCamera/sfx_cameraPanning.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

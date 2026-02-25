@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{fb55c7b3-8995-4eb5-818c-c2fd119017bb}">
 		<property name="assetPath">
-			<value>sfx_ChargingLoop.wav</value>
+			<value>ChargingPort/sfx_ChargingLoop.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

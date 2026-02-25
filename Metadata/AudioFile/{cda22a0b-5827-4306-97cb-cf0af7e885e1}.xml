@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{cda22a0b-5827-4306-97cb-cf0af7e885e1}">
 		<property name="assetPath">
-			<value>sfx_ventOpen.wav</value>
+			<value>Vent/sfx_ventOpen.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
