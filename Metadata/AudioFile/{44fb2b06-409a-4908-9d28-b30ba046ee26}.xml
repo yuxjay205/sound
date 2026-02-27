@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{18f3f74d-8685-4466-8007-bcee736e2af0}">
+	<object class="AudioFile" id="{44fb2b06-409a-4908-9d28-b30ba046ee26}">
 		<property name="assetPath">
-			<value>UI/sfx_MenuButton.wav</value>
+			<value>UI/sfx_QuitButton.wav</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>48</value>
+			<value>44.0999985</value>
 		</property>
 		<property name="channelCount">
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>0.58816666666666662</value>
+			<value>0.13199546485260771</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{3990afe1-3ead-48d5-9ec1-5da3d846a8d3}</destination>
