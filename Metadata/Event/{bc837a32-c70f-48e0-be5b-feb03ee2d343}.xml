@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{bc837a32-c70f-48e0-be5b-feb03ee2d343}">
 		<property name="name">
-			<value>sfx_lightsFlickerLoop</value>
+			<value>Sfx_LightsFlickerLoop</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{705510c8-337b-45c4-b90f-bf62460c1a66}">
 		<property name="name">
-			<value>Sfx_magnet_attract</value>
+			<value>Sfx_MagnetAttract</value>
 		</property>
 		<property name="outputFormat">
 			<value>0</value>

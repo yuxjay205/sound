@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{b99d5400-8c45-44f9-9f19-99081ca7a63e}">
 		<property name="name">
-			<value>VO_openingCutsceneFull</value>
+			<value>Vo_OpeningCutsceneFull</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>

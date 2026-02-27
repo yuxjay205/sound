@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{a6b0c617-e60d-49c6-92a2-165c780ab03c}">
 		<property name="name">
-			<value>sfx_ShortCircuit</value>
+			<value>Sfx_ShortCircuit</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>

@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{22023ff9-5a17-489d-97aa-6eab021af2eb}">
 		<property name="name">
-			<value>sfx_AIStaticLoop</value>
+			<value>Sfx_AIStaticLoop</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
