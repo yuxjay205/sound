@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{d534ce12-bc21-4d37-bc87-2c9edcb8013c}">
+		<property name="assetPath">
+			<value>VO_Level2/Vo_Encounter6_Line2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.4080208333333335</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3990afe1-3ead-48d5-9ec1-5da3d846a8d3}</destination>
+		</relationship>
+	</object>
+</objects>
