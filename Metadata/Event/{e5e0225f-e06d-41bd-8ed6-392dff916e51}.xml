@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{e5e0225f-e06d-41bd-8ed6-392dff916e51}">
 		<property name="name">
-			<value>Bgm_FactoryAmbience</value>
+			<value>Bgm_Level1</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -60,7 +60,7 @@
 	<object class="MarkerTrack" id="{6a6c0ae9-364c-4a6b-adea-8d5487ed65f5}" />
 	<object class="GroupTrack" id="{41052290-220b-4077-8d8a-a40833bb7e2d}">
 		<relationship name="modules">
-			<destination>{ca2a84f1-e1b1-4eff-9200-697e410926f4}</destination>
+			<destination>{434cddb1-99e2-4297-ab29-db79fca7adc4}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{f857ef6b-0e42-4190-9081-b3e1bd1af6c8}</destination>
@@ -68,7 +68,7 @@
 	</object>
 	<object class="Timeline" id="{5e59127b-903e-4efb-9a39-95548e86d5e5}">
 		<relationship name="modules">
-			<destination>{ca2a84f1-e1b1-4eff-9200-697e410926f4}</destination>
+			<destination>{434cddb1-99e2-4297-ab29-db79fca7adc4}</destination>
 		</relationship>
 		<relationship name="markers">
 			<destination>{dadf0010-1aef-44ae-9617-06ecec3c3c28}</destination>
@@ -91,12 +91,12 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{e2418634-9e4e-4a80-847b-539900c03dea}" />
-	<object class="SingleSound" id="{ca2a84f1-e1b1-4eff-9200-697e410926f4}">
+	<object class="SingleSound" id="{434cddb1-99e2-4297-ab29-db79fca7adc4}">
 		<property name="length">
-			<value>89.343374999999995</value>
+			<value>168</value>
 		</property>
 		<relationship name="audioFile">
-			<destination>{9f87bcf8-988d-4095-b3f9-a367917f04da}</destination>
+			<destination>{b413f128-942f-4811-9992-a8bb6087245f}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{f857ef6b-0e42-4190-9081-b3e1bd1af6c8}">
@@ -121,7 +121,7 @@
 			<value>0</value>
 		</property>
 		<property name="length">
-			<value>89.343374999999995</value>
+			<value>168</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{5e59127b-903e-4efb-9a39-95548e86d5e5}</destination>
