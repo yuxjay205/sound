@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{d3e604dc-b0e0-4e78-9bbe-70f7c923670d}">
 		<property name="name">
-			<value>FactoryRobotInvestigate</value>
+			<value>Vo_FactoryRobotInvestigate</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
@@ -94,6 +94,9 @@
 		</property>
 		<property name="timelockedOffset">
 			<value>0.60000000000000009</value>
+		</property>
+		<property name="name">
+			<value>Vo_FactoryRobotInvestigate</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{d7f987fc-22c9-40d7-b2b9-ae1f0d7592fb}</destination>
