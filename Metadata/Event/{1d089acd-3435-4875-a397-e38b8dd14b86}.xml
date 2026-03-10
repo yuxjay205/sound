@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{1d089acd-3435-4875-a397-e38b8dd14b86}">
 		<property name="name">
-			<value>Sfx_ChargingLoop</value>
+			<value>Sfx_Charging</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
@@ -82,7 +82,11 @@
 			<destination>{60b079fb-c348-4970-adea-03f708e01324}</destination>
 		</relationship>
 	</object>
-	<object class="MultiSound" id="{e47d0dc6-d881-4f48-ac39-0c1e4f615ea0}" />
+	<object class="MultiSound" id="{e47d0dc6-d881-4f48-ac39-0c1e4f615ea0}">
+		<relationship name="sounds">
+			<destination>{1a80f917-18dc-4a55-974c-6fe84fc2348a}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusEffectChain" id="{6cb39a57-9fb3-4cfa-bc5f-6a17e8b55d31}">
 		<relationship name="effects">
 			<destination>{d8088792-e5ff-4e55-9bde-577c71ddc4e4}</destination>
@@ -96,6 +100,11 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{c3cfafa8-3a7f-41fd-8994-8ee54e5ed81f}" />
+	<object class="SingleSound" id="{1a80f917-18dc-4a55-974c-6fe84fc2348a}">
+		<relationship name="audioFile">
+			<destination>{e4f52b59-0f8d-49ab-91dc-958f46476ee4}</destination>
+		</relationship>
+	</object>
 	<object class="MixerBusFader" id="{d8088792-e5ff-4e55-9bde-577c71ddc4e4}" />
 	<object class="MixerBusFader" id="{91939653-4665-4085-bbfd-61f3437e8b4e}" />
 	<object class="SpatialiserEffect" id="{55ca23ec-daa7-40db-9c9e-c701f43083e4}" />
