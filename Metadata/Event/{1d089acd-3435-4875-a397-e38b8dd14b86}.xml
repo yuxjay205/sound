@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{1d089acd-3435-4875-a397-e38b8dd14b86}">
 		<property name="name">
-			<value>Sfx_Charging</value>
+			<value>Sfx_ChargingLoop</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
