@@ -60,7 +60,7 @@
 	<object class="MarkerTrack" id="{3fd8fcb3-278b-4b71-8f97-6402dc9f9e25}" />
 	<object class="GroupTrack" id="{b302a8d5-b3ba-4de6-bf60-46771affa5f8}">
 		<relationship name="modules">
-			<destination>{aa4010b9-ac35-4b8b-83e9-4feb659ba72e}</destination>
+			<destination>{796d95a2-b5ea-482e-9509-95f6a347012d}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{2856f82a-5ed2-4e45-9e9c-886d9a2dc6cb}</destination>
@@ -68,13 +68,16 @@
 	</object>
 	<object class="Timeline" id="{857947a9-aa58-4d78-ab43-7bfad499b577}">
 		<relationship name="modules">
-			<destination>{aa4010b9-ac35-4b8b-83e9-4feb659ba72e}</destination>
+			<destination>{796d95a2-b5ea-482e-9509-95f6a347012d}</destination>
 		</relationship>
 		<relationship name="markers">
 			<destination>{379d7452-3e2d-47b0-86c2-a3090583f330}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{100f820b-d919-4ed8-99b8-30aaf7822ef6}">
+		<property name="volume">
+			<value>-19.5</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{a2ba55f0-6f4f-4823-a50e-6800cf1a705c}</destination>
 		</relationship>
@@ -91,17 +94,17 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{d143d96e-0d24-47c4-91dd-dc33f08b4765}" />
-	<object class="SingleSound" id="{aa4010b9-ac35-4b8b-83e9-4feb659ba72e}">
+	<object class="SingleSound" id="{796d95a2-b5ea-482e-9509-95f6a347012d}">
 		<property name="length">
-			<value>57.600000000000001</value>
+			<value>216.77421768707484</value>
 		</property>
 		<relationship name="audioFile">
-			<destination>{033593d5-4a7a-496a-bcbe-5bd4e4004adb}</destination>
+			<destination>{a79cce9d-5955-4ff2-adbb-140950014484}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{2856f82a-5ed2-4e45-9e9c-886d9a2dc6cb}">
 		<property name="volume">
-			<value>-10</value>
+			<value>-26</value>
 		</property>
 		<property name="name">
 			<value>Audio 1</value>
@@ -121,7 +124,7 @@
 			<value>0</value>
 		</property>
 		<property name="length">
-			<value>57.600000000000001</value>
+			<value>216.77421768707484</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{857947a9-aa58-4d78-ab43-7bfad499b577}</destination>
