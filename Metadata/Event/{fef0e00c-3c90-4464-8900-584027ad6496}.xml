@@ -32,7 +32,6 @@
 			<destination>{573f1013-3b54-4b4d-badc-95a57d89ff4f}</destination>
 		</relationship>
 		<relationship name="banks">
-			<destination>{0625ef31-e9d9-4962-b25d-25c245b7d038}</destination>
 			<destination>{0040ca87-8344-42c0-9217-1a26492fad6b}</destination>
 		</relationship>
 	</object>
@@ -97,10 +96,10 @@
 			<value>0.10000000000000001</value>
 		</property>
 		<property name="minimumTimeBetweenSounds">
-			<value>4000</value>
+			<value>5500</value>
 		</property>
 		<property name="maximumTimeBetweenSounds">
-			<value>4000</value>
+			<value>5500</value>
 		</property>
 		<property name="minimumScatterDistance">
 			<value>0</value>

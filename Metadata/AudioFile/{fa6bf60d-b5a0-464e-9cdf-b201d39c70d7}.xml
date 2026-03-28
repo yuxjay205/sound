@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{fa6bf60d-b5a0-464e-9cdf-b201d39c70d7}">
 		<property name="assetPath">
-			<value>VO_OpeningCommercialPart1.wav</value>
+			<value>Commercial1_Omnibots/VO_OpeningCommercialPart1.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

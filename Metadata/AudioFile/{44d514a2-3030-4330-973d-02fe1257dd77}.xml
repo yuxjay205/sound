@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{44d514a2-3030-4330-973d-02fe1257dd77}">
 		<property name="assetPath">
-			<value>VO_OpeningCommercialPart2.wav</value>
+			<value>Commercial1_Omnibots/VO_OpeningCommercialPart2.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
