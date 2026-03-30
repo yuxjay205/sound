@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{aa5b450f-09c8-49a0-b00a-4af55b1039cf}">
+	<object class="AudioFile" id="{32806732-449b-4083-8cd7-045cf65923bc}">
 		<property name="assetPath">
-			<value>sfx_ShortCircuit.wav</value>
+			<value>Sfx_LaserPowerDownNEW.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
 		</property>
 		<property name="channelCount">
-			<value>1</value>
+			<value>2</value>
 		</property>
 		<property name="length">
-			<value>2.7225833333333331</value>
+			<value>0.63810416666666669</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{3990afe1-3ead-48d5-9ec1-5da3d846a8d3}</destination>
