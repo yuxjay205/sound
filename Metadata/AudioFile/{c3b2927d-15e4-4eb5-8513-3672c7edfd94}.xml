@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{decf6023-9ea3-4f4c-b57a-3b4ec5c2ec42}">
+	<object class="AudioFile" id="{c3b2927d-15e4-4eb5-8513-3672c7edfd94}">
 		<property name="assetPath">
 			<value>BGM/Bgm_Level3Cutscene.wav</value>
 		</property>
@@ -14,7 +14,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>46</value>
+			<value>43</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{3990afe1-3ead-48d5-9ec1-5da3d846a8d3}</destination>
