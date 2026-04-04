@@ -75,6 +75,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{52ee275f-6fd7-4602-b124-4192bde0f2fc}">
+		<property name="volume">
+			<value>-10</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{9346743f-f884-443b-b29f-f3de08c2991b}</destination>
 		</relationship>
@@ -96,10 +99,10 @@
 			<value>0.5</value>
 		</property>
 		<property name="minimumTimeBetweenSounds">
-			<value>5500</value>
+			<value>26000</value>
 		</property>
 		<property name="maximumTimeBetweenSounds">
-			<value>5500</value>
+			<value>26000</value>
 		</property>
 		<property name="minimumScatterDistance">
 			<value>0</value>
